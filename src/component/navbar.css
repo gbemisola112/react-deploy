@@ -1,0 +1,19 @@
+#nav{
+    background-color: gray;
+    height: 50px;
+    padding: 10px;
+}
+#nav-link{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    list-style-type: none;
+    color: white;
+}
+button{
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 10px;
+    width: 80px;
+    gap: 20px;
+}
